@@ -22,8 +22,6 @@ decision_tree_ml.ipynb — main notebook containing the full implementation.
 
 requirements.txt — list of Python packages (to be created if not included).
 
-data/ — dataset used for model training and testing.
-
 ## 📈 Results
 The model achieves strong predictive performance, showing how Decision Trees can effectively classify data with clear interpretability. Visualizations help explain the model’s logic and decision paths.
 
